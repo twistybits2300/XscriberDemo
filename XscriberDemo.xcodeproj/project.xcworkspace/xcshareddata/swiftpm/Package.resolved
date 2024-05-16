@@ -1,0 +1,15 @@
+{
+  "originHash" : "b58578bdac76fde442dd27f7fd2395ee4fcc6f01b3a6b0f38a3f9132ed8d3308",
+  "pins" : [
+    {
+      "identity" : "xscriber",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twistybits2300/Xscriber.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e441c120ecb05d1e39f26f48fb0b61d50eae74c8"
+      }
+    }
+  ],
+  "version" : 3
+}
